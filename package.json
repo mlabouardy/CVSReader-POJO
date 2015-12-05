@@ -1,0 +1,22 @@
+{
+  "name": "cvsreader-pojo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlabouardy/CVSReader-POJO.git"
+  },
+  "author": "Mohamed Labouardy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlabouardy/CVSReader-POJO/issues"
+  },
+  "homepage": "https://github.com/mlabouardy/CVSReader-POJO#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
